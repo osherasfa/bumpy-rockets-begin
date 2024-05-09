@@ -36,7 +36,7 @@ const DealsChart
     yField: 'value',
     isStack: false,
     seriesField: 'state',
-    // animation: true,
+    animation: true,
     startOnZero: false,
     smooth: true,
     legend: {
