@@ -101,7 +101,7 @@ export const CompanyContactsTable = () => {
         borderBottom: "1px solid #D9D9D9",
         marginBottom: "1px",
       }}
-      bodyStyle={{ padding: 0 }}
+      styles={{ body: { padding: 0 }}}
       title={
         <Space size="middle">
           <TeamOutlined />
